@@ -18,3 +18,4 @@ These tasks helped me understand how to identify threats, respond to incidents, 
 ---
 
 This stage strengthened my security awareness and gave me hands-on experience with analysis and reporting — essential for transitioning into **Governance, Risk, and Compliance (GRC)**.
+
